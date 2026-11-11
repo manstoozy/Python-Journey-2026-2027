@@ -1,1 +1,5 @@
 print("Hello, Python!")
+print("My is Sibusiso Cebekhulu")
+print("I study Computer Systems Engineering at the Vaal University of Technology")
+print("I am learning Python")
+print("My goal is to become a good programmer")
