@@ -18,7 +18,7 @@ Welcome to my Python learning journey! This repository documents my progress as 
 ## Progress tracker
 - [X] Day 01 — Introduction to Programming
 - [X] Day 02 — Variables and Data Types
-- [ ] Day 03 — Operators and Expressions
+- [X] Day 03 — Operators and Expressions
 - [ ] Day 04 — Input and Output
 - [ ] Day 05 — Conditional Statements
       
