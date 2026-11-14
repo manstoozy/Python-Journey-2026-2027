@@ -19,7 +19,7 @@ Welcome to my Python learning journey! This repository documents my progress as 
 - [X] Day 01 — Introduction to Programming
 - [X] Day 02 — Variables and Data Types
 - [X] Day 03 — Operators and Expressions
-- [ ] Day 04 — Input and Output
+- [X] Day 04 — Input, Output and String Formatting
 - [ ] Day 05 — Conditional Statements
       
 **One day at a time. One concept at a time.**
