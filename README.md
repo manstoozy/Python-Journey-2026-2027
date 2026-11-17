@@ -22,5 +22,6 @@ Welcome to my Python learning journey! This repository documents my progress as 
 - [X] Day 04 — Input, Output and String Formatting
 - [X] Day 05 — Conditional Statements
 - [X] Day 06 — Python while Loops
+- [X] Day 07 — Python for Loops
       
 **One day at a time. One concept at a time.**
